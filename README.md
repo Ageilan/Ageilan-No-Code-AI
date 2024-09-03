@@ -5,7 +5,16 @@ Key Features Multi-Agent Architecture: Employs multiple CrewAI agents working to
 Getting Started
 
 1.Clone the Repository
+
+
 2.Install CrewAI
+
+
 3.Import the Project
+
+
 4.Configure Settings
+
+
 5.Run the AI
+
